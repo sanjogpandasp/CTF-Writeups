@@ -1,8 +1,8 @@
-## OSINT Challange - 1
+## OSINT Challenge - 1
 The question was  
 ![](/HACKIM-8/images/osint1/1.png?raw=true)  
 
-The idea behind solving this challange was to read and understand the question as closely as possible.  
+The idea behind solving this challenge was to read and understand the question as closely as possible.  
 -`Hint :- A city between Palm Harbor and Belleair.`
 ###Steps to solve  
 
