@@ -47,7 +47,6 @@ The flag was the commbination of the value in a and b. You might have to check f
 ###Credits  
 - Sagar Popat
 - Archita Aparachita
-- Shubham Mittal
 - Pratap Chandra
 - Chandrakant Nial
 - Swaroop Yermalkar
