@@ -36,4 +36,13 @@ but no luck.
 
 ![](/HACKIM-8/images/osint1/6.png?raw=true)  
 
-### Got the Flag :  ee:06:bb:c1:48:bc:64:bf:69:d3:ff:6f:b0:89:6a:84
+### Flag :  
+    flag{ee:06:bb:c1:48:bc:64:bf:69:d3:ff:6f:b0:89:6a:84}
+
+
+###Credits  
+- Archita Aparachita
+- Shubham Mittal
+- Pratap Chandra
+- Chandrakant Nial
+- Swaroop Yermalkar
