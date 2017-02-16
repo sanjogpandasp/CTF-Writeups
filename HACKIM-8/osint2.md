@@ -53,14 +53,16 @@ and finally got the flag
 ###Flag
         flag{3072:uFvAPdnvdoz91j/q2p4N1m1QmKoEe2TE4lvrNh:uFvAPdnvdoz91rq2p4rm1QdoEe2TE4l/}  
 
-
 ###Credits  
 - Sagar Popat
 - Archita Aparachita
-- Shubham Mittal
 - Pratap Chandra
 - Chandrakant Nial
 - Swaroop Yermalkar
+
+
+
+
 
 
 
