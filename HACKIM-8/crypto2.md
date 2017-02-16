@@ -43,3 +43,14 @@ The flag was the commbination of the value in a and b. You might have to check f
 
 
     flag{170, 808}
+    
+###Credits  
+- Sagar Popat
+- Archita Aparachita
+- Shubham Mittal
+- Pratap Chandra
+- Chandrakant Nial
+- Swaroop Yermalkar
+
+
+
