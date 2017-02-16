@@ -43,13 +43,15 @@ Downloaded a few pre-written snippets to crack and fiddled around ssdeep but not
   ![](/HACKIM-8/images/osint2/8.png?raw=true)  
   
   -`Then headed to the tools section of this website and passed the MD5 hash`  
+  
   ![](/HACKIM-8/images/osint2/9.png?raw=true)  
     
-    and finally got the flag 
-  ![](/HACKIM-8/images/osint2/10.png?raw=true)  
+and finally got the flag  
+
+![](/HACKIM-8/images/osint2/10.png?raw=true)  
   
-  ###Flag :
-      flag{3072:uFvAPdnvdoz91j/q2p4N1m1QmKoEe2TE4lvrNh:uFvAPdnvdoz91rq2p4rm1QdoEe2TE4l/}  
+###Flag
+        flag{3072:uFvAPdnvdoz91j/q2p4N1m1QmKoEe2TE4lvrNh:uFvAPdnvdoz91rq2p4rm1QdoEe2TE4l/}  
 
 
 ###Credits  
